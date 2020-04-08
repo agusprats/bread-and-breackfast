@@ -2447,3 +2447,11 @@ a:hover.back-to-top {
 	/* end of navigation */
 }
 /* end of min-width width 1200px */
+
+@media all and (max-width: 599px) {
+	.navbar-custom .navbar-brand.logo-text {
+	width: 90%;
+	height: auto;
+	
+}
+}
