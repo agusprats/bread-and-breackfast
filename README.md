@@ -4,6 +4,7 @@ One page format. HTML landing site template built with Bootstrap featuring morph
 <p>See <a href="https://agusprats.github.io/bread-and-breackfast/" target="new">DEMO</a>
 <br/>
 <hr>
+<img src="mockupb&b.jpg">
 <img src="b&b.png">
 <hr>
 Credits for the beautiful pictures:<br/>
