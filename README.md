@@ -1,5 +1,5 @@
 # bread-and-breackfast
-One page format. HTML landing site template built with Bootstrap featuring morphtext, text slider, grid filtering, lightbox details, count-to numbers, call request and contact form.<br/>
+One page format. HTML template built with Bootstrap featuring morphtext, text slider, grid filtering, lightbox details, count-to numbers, call request and contact form with PHP.<br/>
 <hr>
 <p>See <a href="https://agusprats.github.io/bread-and-breackfast/" target="new">DEMO</a>
 <br/>
